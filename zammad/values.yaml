@@ -397,6 +397,11 @@ autoWizard:
   #     ]
   #   }
 
+initJob:
+  randomName: true
+  annotations: {}
+    # my-annotation: "value"
+
 podAnnotations: {}
   # my-annotation: "value"
 
